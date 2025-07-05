@@ -20,9 +20,9 @@ This is the home directory for the **Council of Tsukuyomi** organization, dedica
 ## GitHub Stars History
 <a href="https://star-history.com/#CouncilOfTsukuyomi/Atomos,CouncilOfTsukuyomi/PluginTemplate,CouncilOfTsukuyomi/XMA-Plugin&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CouncilOfTsukuyomi/Atomos,CouncilOfTsukuyomi/PluginTemplate,CouncilOfTsukuyomi/XMA-Plugin&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CouncilOfTsukuyomi/Atomos,CouncilOfTsukuyomi/PluginTemplate,CouncilOfTsukuyomi/XMA-Plugin&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CouncilOfTsukuyomi/Atomos,CouncilOfTsukuyomi/PluginTemplate,CouncilOfTsukuyomi/XMA-Plugin&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CouncilOfTsukuyomi/Atomos&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CouncilOfTsukuyomi/Atomos&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CouncilOfTsukuyomi/Atomos&type=Date" />
   </picture>
 </a>
 
